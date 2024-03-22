@@ -61,8 +61,11 @@
     margin: 0px 0px;
 }
 /* fernandof38911b935c3ef6d9 */
+.fernandof38911b935c3ef6d9 .fdb-block {
+    padding: 0rem 0;
+}
 .fernandof38911b935c3ef6d9 h1,
-.fernandof38911b935c3ef6d9 .lead
+.fernandof38911b935c3ef6d9 .lead,
 .fernandof38911b935c3ef6d9 .btn-primary{
  display: none;
 }
