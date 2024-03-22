@@ -102,7 +102,7 @@
 }
 /* footerbf5e57dc82a907a3 */
 .footerbf5e57dc82a907a3 .BG {
-    background-color: var(--button-border-radius);
+    background-color: var(--black-Color);
 }
 .footerbf5e57dc82a907a3 .font-weight-bold {
     font-weight: var(--button-font-weight) !important;
