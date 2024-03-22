@@ -102,38 +102,29 @@
 .funtushftac0ssp3mu strong {
     font-weight: 400 !important;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.funtushftac0ssp3mu .fdb-block {
+    padding: 0px 0;
+}
+/* testimonialcohi0ajeo7e */
+.testimonialcohi0ajeo7e .lead {
+    font-size: 18px;
+    font-weight: 400;
+}
+.testimonialcohi0ajeo7e h1{
+    display: none;
+}
+/* calltoactionca75l1dtxe0 */
+.calltoactionca75l1dtxe0 .fdb-block {
+    padding: 2.5rem 0
+}
+.calltoactionca75l1dtxe0 h3{
+    font-size: var(--heading-two);
+    margin-top: var(--margin-top);
+}
+.calltoactionca75l1dtxe0 .btn-light {
+    border: none;
+    background-color: var(--secondary-Background-Color);
+}
 /* clientscca5p4g11jb4 */
 .clientscca5p4g11jb4{
     padding: 4em;
