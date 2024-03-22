@@ -82,7 +82,14 @@
 .fernandof38911b935c3ef6d9 strong {
     font-weight: 400 !important;
 }
-
+/* cbadii8z6i5 */
+.cbadii8z6i5 h1 {
+    font-size: var(--heading);
+}
+.cbadii8z6i5 .fdb-block {
+    padding: 30px 0;
+    padding-bottom: 0em;
+}
 /* funtushftac0ssp3mu */
 .funtushftac0ssp3mu h1,
 .funtushftac0ssp3mu .lead {
@@ -92,7 +99,9 @@
     font-size: var(--heading-two);
     margin-top: var(--margin-top);
 }
-
+.funtushftac0ssp3mu strong {
+    font-weight: 400 !important;
+}
 
 
 
