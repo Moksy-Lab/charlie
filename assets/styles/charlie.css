@@ -43,15 +43,23 @@
     text-underline-offset: 8px;
 }
 /* abouteb092de7c8df0610 */
+.abouteb092de7c8df0610 {
+    padding: var(--section-padding);
+}
 .abouteb092de7c8df0610 h2{
     font-size: var(--heading);
 }
 .abouteb092de7c8df0610 #AbOuTuS {
     font-weight: var(--button-font-weight);
+    padding: 0rem;
 }
 /* serviceeb6af6ab30a03fde */
 .serviceeb6af6ab30a03fde {
     background: var(--secondary-Background-Color);
+    padding: var(--section-padding);
+}
+.serviceeb6af6ab30a03fde .box{
+    padding: 0px;
 }
 .serviceeb6af6ab30a03fde .fa {
     color: var(--primary-Color);
@@ -70,12 +78,21 @@
 .campbelldy9djhgjfg .fdb-block {
     padding-bottom: 0em;
 }
+.campbelldy9djhgjfg{
+    padding-top: 30px;
+}
 .campbelldy9djhgjfg  h1 {
     font-size: var(--heading-large);
 }
 /* fernandof38911b935c3ef6d9 */
 .fernandof38911b935c3ef6d9 .fdb-block {
     padding: 0rem 0;
+}
+@media (min-width: 768px) {
+    .fernandof38911b935c3ef6d9 .pb-md-5, 
+    .fernandof38911b935c3ef6d9 .py-md-5 {
+        padding-bottom: 0rem !important;
+    }
 }
 .fernandof38911b935c3ef6d9 h1,
 .fernandof38911b935c3ef6d9 .lead,
@@ -93,8 +110,11 @@
     font-size: var(--heading-large);
 }
 .cbadii8z6i5 .fdb-block {
-    padding: 30px 0;
+    padding: 0px 0;
     padding-bottom: 0em;
+}
+.cbadii8z6i5 {
+    padding-top: 30px 
 }
 .cbadii8z6i5 .lead {
     font-size: var(--paragraph);
@@ -105,7 +125,7 @@
     display: none;
 }
 .funtushftac0ssp3mu h3 {
-    font-size: var(--heading-medium);
+    font-size: var(--paragraph);
     margin-top: var(--margin-top);
 }
 .funtushftac0ssp3mu strong {
@@ -115,6 +135,9 @@
     padding: 0px 0;
 }
 /* testimonialcohi0ajeo7e */
+.testimonialcohi0ajeo7e{
+    padding: var(--section-padding);
+}
 .testimonialcohi0ajeo7e .lead {
     font-size: var(--paragraph);
     font-weight: 400;
@@ -123,11 +146,14 @@
     display: none;
 }
 /* calltoactionca75l1dtxe0 */
+.calltoactionca75l1dtxe0{
+    padding: var(--section-padding);
+}
 .calltoactionca75l1dtxe0 h1{
     font-size: var(--heading-large);
 }
 .calltoactionca75l1dtxe0 .fdb-block {
-    padding: 2.5rem 0
+    padding: 0rem 0
 }
 .calltoactionca75l1dtxe0 h3{
     font-size: var(--heading-medium);
@@ -139,7 +165,7 @@
 }
 /* clientscca5p4g11jb4 */
 .clientscca5p4g11jb4{
-    padding: 4em;
+    padding: var(--section-padding);
 }
 .clientscca5p4g11jb4 h1 {
     font-size: var(--heading-large);
